@@ -7,7 +7,7 @@ public class BaseForm extends ActionForm {
 	private static final long serialVersionUID = -3298183685105683583L;
 
 	/**
-     * Action
+     * Action delete
      */
     protected String action = null;
 
